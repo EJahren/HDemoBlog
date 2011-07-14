@@ -1,0 +1,32 @@
+#container
+{
+ margin-left:auto; 
+ margin-right:auto; 
+ width:85%;
+}
+
+#navigation
+{
+ float:left;
+ width:100px;
+ height:100px;
+ background-color: red;
+}
+
+
+#posts
+{
+  float:left;
+  width:inherit;
+  background-color: blue;
+}
+
+.title
+{
+  background-color: SkyBlue;
+}
+
+.footer
+{
+  background-color: DeepSkyBlue;
+}
